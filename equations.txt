@@ -1,4 +1,4 @@
-﻿"IDf695"= 13mm
-"ODf695"= 15mm
-"gt2Thickness"= 1.38mm
-"m5Insert"= 6.4mm
+﻿"IDf695"= 13mm
+"ODf695"= 15mm
+"gt2Thickness"= 1.38mm
+"m5Insert"= 7mm
