@@ -1,5 +1,6 @@
 # Koroon P3S
-Have you ever wanted your Kingroon KP3S to become a Enclosed CoreXY??
+Have you ever wanted your Kingroon KP3S to become an enclosed CoreXY?? 
+
 Well, okay no one asked for this, but it definitely a thing exist on the internet now.
 
 ## Super duper good 4K Render (idk why it's off centered)
