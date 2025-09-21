@@ -1,0 +1,2 @@
+-The BTT Pi v1.2 on this printer uses image comes pre installed with Klipper and KlipperScreen: https://github.com/bigtreetech/cb1
+-Btt Pi communicates with the KP3S's "robin nano" control board via USB
