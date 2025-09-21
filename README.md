@@ -13,6 +13,8 @@ Well, okay no one asked for this, but it definitely a thing exist on the interne
 - 350 mm/s max velocity
 - 180 x 180 x 170mm build volume
 - Klipper powered 
+## Online CAD
+https://cad.onshape.com/documents/5fcedadf3ff4e88c8606ff8e/w/9b7da2ff96b2708f20d41122/e/33050d04435cbe2d98ec49cc
 
 ![logo light](https://github.com/cminhl/koroon-p3s/blob/ae6bbe975f81cd3b57122e9c704d5834b6980c54/Images/koroon-transparent-light-2.png)
 ![logo dark](https://github.com/cminhl/koroon-p3s/blob/ae6bbe975f81cd3b57122e9c704d5834b6980c54/Images/koroon-transparent-dark-2.png)
