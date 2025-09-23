@@ -6,7 +6,7 @@ Well, okay no one asked for this, but it definitely a thing exist on the interne
 ## Super duper good 4K Render
 ![Super duper scuff 4K render](https://github.com/cminhl/koroon-p3s/blob/ae6bbe975f81cd3b57122e9c704d5834b6980c54/Images/p3s_4k_render.png)
 ## A photo of the printer on a Sunday afternoon
-![real photo](https://github.com/cminhl/koroon-p3s/blob/ae6bbe975f81cd3b57122e9c704d5834b6980c54/Images/koroon-p3s-photo1)
+![real photo](https://github.com/cminhl/koroon-p3s/blob/ae6bbe975f81cd3b57122e9c704d5834b6980c54/Images/koroon-p3s-photo1.jpeg)
 ## Some features
 - No ABL, takes you back to the good ol' days of manually spinning leveling knobs
 - Screams like crazy at 200mm/s to 300mm/s
