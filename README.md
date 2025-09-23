@@ -2,11 +2,12 @@
 Have you ever wanted your Kingroon KP3S to become an enclosed CoreXY?? 
 
 Well, okay no one asked for this, but it definitely a thing exist on the internet now.
+Work in progress BOM: https://docs.google.com/spreadsheets/d/e/2PACX-1vTsBF63zws9BJ4LNmUIUL6KAR7HXgUik1ERSuZ9LPpbtpx1haft4wj3vJVy9IGH0A/pub?output=ods
 
 ## Super duper good 4K Render
 ![Super duper scuff 4K render](https://github.com/cminhl/koroon-p3s/blob/ae6bbe975f81cd3b57122e9c704d5834b6980c54/Images/p3s_4k_render.png)
 ## A photo of the printer on a Sunday afternoon
-![real photo]([https://github.com/cminhl/koroon-p3s/blob/ae6bbe975f81cd3b57122e9c704d5834b6980c54/Images/koroon-p3s-photo1.jpg](https://github.com/cminhl/koroon-p3s/blob/585fc6cdfed5aed677c67d5ae621144e500e0475/Images/koroon-p3s-photo1.jpg))
+![real photo](https://github.com/cminhl/koroon-p3s/blob/585fc6cdfed5aed677c67d5ae621144e500e0475/Images/koroon-p3s-photo1.png)
 ## Some features
 - No ABL, takes you back to the good ol' days of manually spinning leveling knobs
 - Screams like crazy at 200mm/s to 300mm/s
