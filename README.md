@@ -1,10 +1,12 @@
 # Koroon P3S
 
 [**Quick start guide to those who might want to use the printer**](https://docs.google.com/document/d/1lvJCNfcVuXMbowZUmkSaOQTA3d4rDajVbZxDRt0HgMc/edit?usp=sharing)
-## Super duper good 4K Render
-![Super duper scuff 4K render](https://github.com/cminhl/koroon-p3s/blob/ae6bbe975f81cd3b57122e9c704d5834b6980c54/Images/p3s_4k_render.png)
 ## A photo of the printer on a Sunday afternoon
 ![real photo](https://github.com/cminhl/koroon-p3s/blob/aa0cd4c93f20ad0df3e7182c380dbfe627735244/Images/koroon-p3s-photo1.png)
+
+## Super duper good 4K Render
+![Super duper scuff 4K render](https://github.com/cminhl/koroon-p3s/blob/ae6bbe975f81cd3b57122e9c704d5834b6980c54/Images/p3s_4k_render.png)
+
 
 
 ## Online CAD and Bill of Materials
